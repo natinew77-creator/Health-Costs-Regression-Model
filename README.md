@@ -18,6 +18,6 @@ This project predicts individual medical expenses based on factors like age, BMI
 
 ## 🔗 Live Code & Execution
 
-Click the link below to view and run the complete model in the cloud.
+Click the link below to view the executable Google Colab notebook.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KMDM-cdqZym4Ed79KHYmNJtUNqig972I?usp=sharing)
