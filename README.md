@@ -1,1 +1,1 @@
-# Health-Costs-Regression-Model
+# Linear Regression Health Costs Calculator
