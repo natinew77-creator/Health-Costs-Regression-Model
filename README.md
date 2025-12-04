@@ -3,14 +3,14 @@
 **Real-Time Health Insurance Cost Estimator**
 
 [![Deploy with Vercel](https://vercel.com/button)](https://health-costs-regression-model.vercel.app/)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-FF6F00?style=for-the-badge)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-Premium-06B6D4?style=for-the-badge)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-FF6F00?style=for-the-badge)](./train_simple_model.py)
+[![UX/UI](https://img.shields.io/badge/UX%2FUI-Premium-06B6D4?style=for-the-badge)](./risk-rate-ai/src/index.css)
 
 > **"Stop waiting for quotes. Get your health insurance estimate in 30 milliseconds, not 30 minutes."**
 
-**[ Live Demo: health-costs-regression-model.vercel.app](https://health-costs-regression-model.vercel.app/)**
+**[🔴 Live Demo: RiskRate AI](https://health-costs-regression-model.vercel.app/)**
 
 RiskRate AI is a modern, high-performance dashboard that provides instant health insurance premium estimates. By bridging the gap between Data Science and Frontend Engineering, this project transforms a standard Python regression model into a responsive, interactive web application.
 
@@ -64,8 +64,8 @@ The "Estimated Annual Premium" card isn't just static text. It features a custom
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/natinew77-creator/Health-Costs-Regression-Model.git
-   cd Health-Costs-Regression-Model/risk-rate-ai
+   git clone https://github.com/natinew77-creator/RiskRate-AI.git
+   cd RiskRate-AI/risk-rate-ai
    ```
 
 2. **Install Dependencies**
