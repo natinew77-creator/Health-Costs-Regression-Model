@@ -1,4 +1,4 @@
-# RiskRate AI 🏥⚡️
+# RiskRate AI 
 
 **Real-Time Health Insurance Cost Estimator**
 
